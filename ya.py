@@ -2,7 +2,7 @@ import json
 import requests
 
 
-token = '55fcf42cb0b14618a8d658476b672f99'
+token = ''
 url = 'https://cloud-api.yandex.net/v1/disk/resources'
 headers = {'Authorization': 'OAuth ' + token}
 
